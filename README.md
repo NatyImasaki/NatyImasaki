@@ -1,6 +1,6 @@
  ## Olá! Eu sou a Natalia Imasaki
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning Java, Spring Boot and Vue.js
 
 <div>
   <a href="https://github.com/NatyImasaki">
